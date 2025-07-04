@@ -40,6 +40,17 @@ body {
     padding: 100px 20px;
     background-color: #0b0c10;
   }
+ 
+  .highlight-link {
+    color: #66fcf1; /* Bright teal color */
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .highlight-link:hover {
+    color: #45a29e;
+    text-decoration: underline;
+  }
   
   .hero h1 {
     font-size: 3em;
